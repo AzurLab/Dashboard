@@ -3,7 +3,7 @@
 gui for [clash for magisk](https://github.com/Kr328/ClashForMagisk)
 
 
-## 教程
+## Wiki
 
 [Dashboard Wiki](https://github.com/Dashboard2/Dashboard/wiki)
 
@@ -36,7 +36,7 @@ No License
 
 </details>
 
-## 感谢
+## Thanks
 
-## 反馈
-[Telegram群组](https://t.me/db4cmm)
+## Feedback
+[Telegram group](https://t.me/db4cmm)
