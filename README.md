@@ -11,13 +11,13 @@ gui for [clash for magisk](https://github.com/Kr328/ClashForMagisk)
 
 GPL3.0 License
 
-[clash](https://github.com/Dreamacro/clash)
+- [Dreamacro/clash](https://github.com/Dreamacro/clash)
 
-[clash for magisk](https://github.com/Kr328/ClashForAndroid)
+- [Kr328/ClashForMagisk](https://github.com/Kr328/ClashForMagisk)
 
 MIT License
 
-[mmdb china ip list](https://github.com/alecthw/mmdb_china_ip_list/tree/release)
+- [alecthw/mmdb_china_ip_list](https://github.com/alecthw/mmdb_china_ip_list/tree/release)
 
 
 ## 感谢
