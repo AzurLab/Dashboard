@@ -9,8 +9,11 @@ gui for [clash for magisk](https://github.com/Kr328/ClashForMagisk)
 
 ## Licenses
 
-GPL-3.0 License
+<details>
+  <summary>3rd Software License(click to expand)</summary>
 
+GPL-3.0 License
+```md
 - [Dreamacro/clash](https://github.com/Dreamacro/clash)
 
 - [Kr328/ClashForMagisk](https://github.com/Kr328/ClashForMagisk)
@@ -21,7 +24,6 @@ MIT License
 
 - [SukkaW/MyIP](https://github.com/SukkaW/MyIP)
 
-
 WTFPL License
 
 - [Showfom/sb.sb](https://github.com/Showfom/sb.sb)
@@ -29,7 +31,7 @@ WTFPL License
 No License
 
 - [haishanh/yacd](https://github.com/haishanh/yacd)
-
+```
 ## 感谢
 
 ## 反馈
