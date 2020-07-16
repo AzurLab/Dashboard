@@ -5,11 +5,13 @@ gui for [clash for magisk](https://github.com/Kr328/ClashForMagisk)
 
 ## 教程
 
+[Dashboard Wiki](https://github.com/Dashboard2/Dashboard/wiki)
+
 ## License
 
 GPL3.0 License
 
-[clash]()
+[clash](https://github.com/Dreamacro/clash)
 
 [clash for magisk](https://github.com/Kr328/ClashForAndroid)
 
