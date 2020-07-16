@@ -19,6 +19,13 @@ MIT License
 
 - [alecthw/mmdb_china_ip_list](https://github.com/alecthw/mmdb_china_ip_list/tree/release)
 
+ WTFPL License
+
+- [Showfom/sb.sb](https://github.com/Showfom/sb.sb)
+
+No License
+
+- [haishanh/yacd](https://github.com/haishanh/yacd)
 
 ## 感谢
 
