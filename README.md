@@ -10,7 +10,9 @@ gui for [clash for magisk](https://github.com/Kr328/ClashForMagisk)
 ## Licenses
 
 <details>
+
   <summary>3rd Software License(click to expand)</summary>
+
 
 GPL-3.0 License
 
