@@ -2,6 +2,7 @@
 
 gui for [clash for magisk](https://github.com/Kr328/ClashForMagisk)
 
+[中文说明](https://github.com/Dashboard2/Dashboard/blob/master/README_cn.md)
 
 ## Wiki
 
