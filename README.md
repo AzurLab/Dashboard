@@ -7,9 +7,9 @@ gui for [clash for magisk](https://github.com/Kr328/ClashForMagisk)
 
 [Dashboard Wiki](https://github.com/Dashboard2/Dashboard/wiki)
 
-## License
+## Licenses
 
-GPL3.0 License
+GPL-3.0 License
 
 - [Dreamacro/clash](https://github.com/Dreamacro/clash)
 
