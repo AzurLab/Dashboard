@@ -19,7 +19,10 @@ MIT License
 
 - [alecthw/mmdb_china_ip_list](https://github.com/alecthw/mmdb_china_ip_list/tree/release)
 
- WTFPL License
+- [SukkaW/MyIP](https://github.com/SukkaW/MyIP)
+
+
+WTFPL License
 
 - [Showfom/sb.sb](https://github.com/Showfom/sb.sb)
 
