@@ -9,7 +9,7 @@ gui for [clash for magisk](https://github.com/Kr328/ClashForMagisk)
 [Dashboard Wiki](https://github.com/Dashboard2/Dashboard/wiki)
 
 
-##Build
+## Build
 
 Download [Fusion]()
 
