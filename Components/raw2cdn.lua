@@ -9,7 +9,7 @@ function raw2()
   elseif (rawlink:find("github.com"))
   then
     user,repo,urbf,branch,file=rawlink:match("https://github.com/(.-)/(.-)/(.-)/(.-)/(.+)")
-    if urbf=="download"
+    if urbf=="releases"
     then file=nil
     end
   elseif rawlink:find("cdn.jsdelivr.net")
