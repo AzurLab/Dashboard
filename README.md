@@ -4,10 +4,10 @@
 </h1>
 
 
-[![GitHub tag](https://img.shields.io/github/tag/Dashboard2/Dashboard.svg)](https://github.com/Dashboard2/Dashboard/tags)
-[![GitHub release](https://img.shields.io/github/release/Dashboard2/Dashboard.svg)](https://github.com/Dashboard2/Dashboard/releases)
-[![GitHub license](https://img.shields.io/github/license/Dashboard2/Dashboard.svg)](https://github.com/Dashboard2/Dashboard/blob/master/LICENSE)
-[![Telegram](https://img.shields.io/badge/discuss-Telegram-blue)](https://t.me/db4cmm)
+[![GitHub tag](https://img.shields.io/github/tag/Dashboard2/Dashboard.svg?style=flat-square)](https://github.com/Dashboard2/Dashboard/tags)
+[![GitHub release](https://img.shields.io/github/release/Dashboard2/Dashboard.svg?style=flat-square)](https://github.com/Dashboard2/Dashboard/releases)
+[![GitHub license](https://img.shields.io/github/license/Dashboard2/Dashboard.svg?style=flat-square)](https://github.com/Dashboard2/Dashboard/blob/master/LICENSE)
+[![Telegram](https://img.shields.io/badge/discuss-Telegram-66ccff?style=flat-square)](https://t.me/db4cmm)
 
 gui for [clash for magisk](https://github.com/Kr328/ClashForMagisk)
 
