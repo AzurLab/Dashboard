@@ -3,13 +3,15 @@
   <br>Dashboard<br>
 </h1>
 
+<h4 align="center">
+  Gui for <a herf="https://github.com/Kr328/ClashForMagisk">clash for magisk</a>
+</h4>
 
 [![GitHub tag](https://img.shields.io/github/tag/Dashboard2/Dashboard.svg?style=flat-square&color=2EA9DF)](https://github.com/Dashboard2/Dashboard/tags)
 [![GitHub release](https://img.shields.io/github/release/Dashboard2/Dashboard.svg?style=flat-square&color=2EA9DF)](https://github.com/Dashboard2/Dashboard/releases)
 [![GitHub license](https://img.shields.io/github/license/Dashboard2/Dashboard.svg?style=flat-square&color=2EA9DF)](https://github.com/Dashboard2/Dashboard/blob/master/LICENSE)
 [![Telegram](https://img.shields.io/badge/discuss-Telegram-2EA9DF?style=flat-square)](https://t.me/db4cmm)
 
-Gui for [clash for magisk](https://github.com/Kr328/ClashForMagisk)
 
 ## Features
 
