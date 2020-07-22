@@ -7,7 +7,7 @@ gui for [clash for magisk](https://github.com/Kr328/ClashForMagisk)
 
 [Dashboard Wiki](https://github.com/Dashboard2/Dashboard/wiki)
 
-[Dashboard 使用教程](https://github.com/Dashboard2/Dashboard/wiki/%E4%BD%BF%E7%94%A8Dashboard)
+[Dashboard 使用教程](https://github.com/Dashboard2/Dashboard/wiki/Dashboard-%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
 
 [Clash Wiki](https://github.com/Dreamacro/clash/wiki/configuration)
 
