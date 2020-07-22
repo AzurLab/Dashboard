@@ -1,8 +1,8 @@
-![](https://cdn.jsdelivr.net/gh/Dashboard2/Dashboard@master/com.dashboard.png)
+<h1 align="center">
+  <img src="https://cdn.jsdelivr.net/gh/Dashboard2/Dashboard@master/com.dashboard.png" alt="Clash" width="200">
+  <br>Dashboard<br>
+</h1>
 
-
-
-# Dashboard
 
 [![Build Status](https://travis-ci.com/Dashboard2/Dashboard.svg?branch=master)](https://travis-ci.com/Dashboard2/Dashboard)
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/Dashboard2/Dashboard.svg)](https://github.com/Dashboard2/Dashboard/tags)
