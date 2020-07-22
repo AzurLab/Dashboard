@@ -4,7 +4,7 @@
 </h1>
 
 <h4 align="center">
-  Gui for <a herf="https://github.com/Kr328/ClashForMagisk">clash for magisk</a>
+  Gui for <a href="https://github.com/Kr328/ClashForMagisk">clash for magisk</a>
 </h4>
 
 [![GitHub tag](https://img.shields.io/github/tag/Dashboard2/Dashboard.svg?style=flat-square&color=2EA9DF)](https://github.com/Dashboard2/Dashboard/tags)
