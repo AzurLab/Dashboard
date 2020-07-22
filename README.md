@@ -13,7 +13,7 @@ gui for [clash for magisk](https://github.com/Kr328/ClashForMagisk)
 
 Download [Fusion]()
 
-Import [fas file]()
+Import [fas file](https://github.com/Dashboard2/Dashboard/tree/master/Fas)
 
 Pack apk
 
