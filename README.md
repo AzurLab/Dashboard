@@ -10,6 +10,8 @@ gui for [clash for magisk](https://github.com/Kr328/ClashForMagisk)
 
 [使用Dashboard](https://github.com/Dashboard2/Dashboard/wiki/%E4%BD%BF%E7%94%A8Dashboard)
 
+[Clash Wiki](https://github.com/Dreamacro/clash/wiki/configuration)
+
 
 ## Build
 
