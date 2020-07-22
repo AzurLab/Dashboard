@@ -4,6 +4,12 @@
 
 # Dashboard
 
+[![Build Status](https://travis-ci.com/Dashboard2/Dashboard.svg?branch=master)](https://travis-ci.com/Dashboard2/Dashboard)
+[![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/Dashboard2/Dashboard.svg)](https://github.com/Dashboard2/Dashboard/tags)
+[![GitHub release](https://img.shields.io/github/release/Dashboard2/Dashboard.svg)](https://github.com/Dashboard2/Dashboard/releases)
+[![GitHub license](https://img.shields.io/github/license/Dashboard2/Dashboard.svg)](https://github.com/Dashboard2/Dashboard/blob/master/LICENSE)
+
+
 gui for [clash for magisk](https://github.com/Kr328/ClashForMagisk)
 
 
