@@ -1,6 +1,8 @@
-# Dashboard
-
 ![](https://cdn.jsdelivr.net/gh/Dashboard2/Dashboard@master/com.dashboard.png)
+
+
+
+# Dashboard
 
 gui for [clash for magisk](https://github.com/Kr328/ClashForMagisk)
 
