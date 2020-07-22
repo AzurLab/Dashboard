@@ -9,7 +9,7 @@
 [![GitHub license](https://img.shields.io/github/license/Dashboard2/Dashboard.svg?style=flat-square&color=2EA9DF)](https://github.com/Dashboard2/Dashboard/blob/master/LICENSE)
 [![Telegram](https://img.shields.io/badge/discuss-Telegram-2EA9DF?style=flat-square)](https://t.me/db4cmm)
 
-gui for [clash for magisk](https://github.com/Kr328/ClashForMagisk)
+Gui for [clash for magisk](https://github.com/Kr328/ClashForMagisk)
 
 
 ## Wiki
