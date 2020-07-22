@@ -20,7 +20,7 @@ gui for [clash for magisk](https://github.com/Kr328/ClashForMagisk)
 
 [Clash 配置说明](https://github.com/Dreamacro/clash/wiki/configuration)
 
-[Clash for Magisk]
+[Clash for Magisk Readme](https://github.com/Kr328/ClashForMagisk/blob/master/README_zh.md)
 
 ## Build
 
