@@ -1,5 +1,7 @@
 # Dashboard
 
+![](https://cdn.jsdelivr.net/gh/Dashboard2/Dashboard@master/com.dashboard.png)
+
 gui for [clash for magisk](https://github.com/Kr328/ClashForMagisk)
 
 
@@ -11,6 +13,7 @@ gui for [clash for magisk](https://github.com/Kr328/ClashForMagisk)
 
 [Clash 配置说明](https://github.com/Dreamacro/clash/wiki/configuration)
 
+[Clash for Magisk]
 
 ## Build
 
