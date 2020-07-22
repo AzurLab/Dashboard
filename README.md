@@ -11,9 +11,17 @@
 
 Gui for [clash for magisk](https://github.com/Kr328/ClashForMagisk)
 
-## Feature
+## Features
 
+- Support [original version](https://github.com/Kr328/ClashForMagisk), [modified version](https://github.com/Dashboard2/ClashForMagiskMod) and [tun version]()
 
+- Help automatically download related files
+
+- No need to open the file directory, one-click control clash
+
+- Small useful functions
+
+- Easy to build your own version, even if you don’t know how to program
 
 ## Wiki
 
