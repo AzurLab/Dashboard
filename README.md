@@ -15,7 +15,7 @@
 
 ## Features
 
-- Support [original version](https://github.com/Kr328/ClashForMagisk), [modified version](https://github.com/Dashboard2/ClashForMagiskMod) and [tun version]()
+- Support [original version](https://github.com/Kr328/ClashForMagisk), [modified version](https://github.com/Dashboard2/ClashForMagiskMod) and [tun version](https://github.com/kalasutra/Clash_Premium_For_Magisk)
 
 - Help automatically download related files
 
@@ -70,6 +70,9 @@ WTFPL License
 No License
 
 - [haishanh/yacd](https://github.com/haishanh/yacd)
+
+- [kalasutra/Clash_Premium_For_Magisk](https://github.com/kalasutra/Clash_Premium_For_Magisk)
+
 
 </details>
 
