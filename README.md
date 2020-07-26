@@ -23,7 +23,7 @@
 
 - Small useful functions
 
-- Easy to build your own version, even if you don’t know how to program
+- Easy to modify and build your own version, even if you don’t know how to program
 
 ## Wiki
 
