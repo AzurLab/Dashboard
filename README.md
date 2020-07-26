@@ -92,5 +92,20 @@ No License
 
 ## Thanks
 
+- [Dreamacro/clash](https://github.com/Dreamacro/clash)
+
+- [Kr328/ClashForMagisk](https://github.com/Kr328/ClashForMagisk)
+
+- [alecthw/mmdb_china_ip_list](https://github.com/alecthw/mmdb_china_ip_list/tree/release)
+
+- [SukkaW/MyIP](https://github.com/SukkaW/MyIP)
+
+- [Showfom/sb.sb](https://github.com/Showfom/sb.sb)
+
+- [haishanh/yacd](https://github.com/haishanh/yacd)
+
+- [kalasutra/Clash_Premium_For_Magisk](https://github.com/kalasutra/Clash_Premium_For_Magisk)
+
+
 ## Feedback
 [Telegram group](https://t.me/db4cmm)
