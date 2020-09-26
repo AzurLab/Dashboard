@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Dashboard2/Dashboard@master/com.dashboard.png" alt="Clash" width="200">
+  <img src="https://cdn.jsdelivr.net/gh/Dashboard2/Dashboard@master/com.dashboard.png" alt="Dashboard" width="200">
   <br>Dashboard<br>
 </h1>
 
