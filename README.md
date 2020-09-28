@@ -15,7 +15,7 @@
 
 ## Features
 
-- Recommend👍 [Clash Premium For Magisk](https://github.com/kalasutra/Clash_Premium_For_Magisk),support [Clash For Magisk](https://github.com/Kr328/ClashForMagisk), [modified version](https://github.com/Dashboard2/ClashForMagiskMod) also
+- Recommend👍 [Clash Premium For Magisk](https://github.com/kalasutra/Clash_Premium_For_Magisk), support [Clash For Magisk](https://github.com/Kr328/ClashForMagisk), [modified version](https://github.com/Dashboard2/ClashForMagiskMod) also
 
 - Help automatically download related files
 
