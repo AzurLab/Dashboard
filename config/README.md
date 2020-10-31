@@ -2,7 +2,7 @@
 
 `/sdcard/Android/data/com.dashboard/config`
 
-或
+或(Android 11+)
 
 `/data/media/0/Android/data/com.dashboard/config`
 
