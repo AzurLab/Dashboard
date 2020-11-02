@@ -1,0 +1,115 @@
+#测试专用配置文件
+port: 7890
+socks-port: 7891
+redir-port: 7892
+allow-lan: true # false
+mode: Rule # global / direct
+log-level: debug # info / warning / error / debug / silent
+external-controller: 0.0.0.0:9090
+dns:
+  enable: true
+  ipv6: false
+  listen: 0.0.0.0:1053
+  enhanced-mode: redir-host # fake-ip
+  fake-ip-filter:
+    - 'stun.*.*'
+    - 'stun.*.*.*'
+    - 'stun.*.*.*.*'
+  nameserver:
+    # - tls://dns.pub
+    # - tls://doh.pub
+    # - tls://223.5.5.5
+    # - tls://185.222.222.222
+    - https://doh.pub/dns-query
+    - https://dns.pub/dns-query
+    - https://dns.alidns.com/dns-query
+    - https://rubyfish.cn/dns-query
+  fallback:
+    # - tls://1.1.1.1
+    # - tls://8.8.8.8
+    - https://cloudflare-dns.com/dns-query
+    - https://dns.google/dns-query
+    - https://doh.dns.sb/dns-query
+    - https://doh.opendns.com/dns-query
+    - https://doh.pub/dns-query
+    - https://dns.alidns.com/dns-query
+tun:
+  enable: true
+  stack: system # or gvisor
+  # dns-hijack:
+  #   - 8.8.8.8:53
+  #   - tcp://8.8.8.8:53
+proxies:
+  - {name: 那, server: 114514.com, port: 114514, type: http, username: 1919810, password: 114514, tls: true}
+  - {name: 我, server: 114514.com, port: 114514, type: http, username: 1919810, password: 114514, tls: true}
+  - {name: 们, server: 114514.com, port: 114514, type: http, username: 1919810, password: 114514, tls: true}
+  - {name: 都, server: 114514.com, port: 114514, type: http, username: 1919810, password: 114514, tls: true}
+  - {name: 很, server: 114514.com, port: 114514, type: http, username: 1919810, password: 114514, tls: true}
+  - {name: 棒, server: 114514.com, port: 114514, type: http, username: 1919810, password: 114514, tls: true}
+  - {name: 哦, server: 114514.com, port: 114514, type: http, username: 1919810, password: 114514, tls: true}
+  - {name: 也, server: 114514.com, port: 114514, type: http, username: 1919810, password: 114514, tls: true}
+  - {name: 不, server: 114514.com, port: 114514, type: http, username: 1919810, password: 114514, tls: true}
+  - {name: 知, server: 114514.com, port: 114514, type: http, username: 1919810, password: 114514, tls: true}
+  - {name: 道, server: 114514.com, port: 114514, type: http, username: 1919810, password: 114514, tls: true}
+  - {name: 咋, server: 114514.com, port: 114514, type: http, username: 1919810, password: 114514, tls: true}
+  - {name: 办, server: 114514.com, port: 114514, type: http, username: 1919810, password: 114514, tls: true}
+  - {name: 嘛, server: 114514.com, port: 114514, type: http, username: 1919810, password: 114514, tls: true}
+proxy-groups:
+  - name: 看来启动成功了
+    type: select
+    proxies:
+      - 那
+      - 我
+      - 们
+      - 都
+      - 很
+      - 棒
+      - 棒
+      - 哦
+  - name: 但这不是您的配置哦
+    type: select
+    proxies:
+      - 那
+      - 咋
+      - 办
+      - 嘛
+  - name: 您的配置去哪了
+    type: select
+    proxies:
+      - 我
+      - 也
+      - 不
+      - 知
+      - 道
+      - 哦
+rules:
+ - MATCH,DIRECT
+Proxy:
+  - {name: 那, server: 114514.com, port: 114514, type: http, username: 1919810, password: 114514, tls: true}
+  - {name: 咋, server: 114514.com, port: 114514, type: http, username: 1919810, password: 114514, tls: true}
+  - {name: 办, server: 114514.com, port: 114514, type: http, username: 1919810, password: 114514, tls: true}
+  - {name: 嘛, server: 114514.com, port: 114514, type: http, username: 1919810, password: 114514, tls: true}
+Proxy Group:
+  - name: 您的内核可能低于0.19.0
+    type: select
+    proxies:
+      - 那
+      - 咋
+      - 办
+      - 嘛
+  - name: 无法读取新版Clash格式
+    type: select
+    proxies:
+      - 那
+      - 咋
+      - 办
+      - 嘛
+  - name: 那咋办嘛
+    type: select
+    proxies:
+      - 那
+      - 咋
+      - 办
+      - 嘛
+Rule:
+ - MATCH,DIRECT
