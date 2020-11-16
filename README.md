@@ -10,7 +10,7 @@
 [![GitHub tag](https://img.shields.io/github/tag/Dashboard2/Dashboard.svg?style=flat-square&color=2EA9DF)](https://github.com/Dashboard2/Dashboard/tags)
 [![GitHub release](https://img.shields.io/github/release/Dashboard2/Dashboard.svg?style=flat-square&color=2EA9DF)](https://github.com/Dashboard2/Dashboard/releases)
 [![GitHub license](https://img.shields.io/github/license/Dashboard2/Dashboard.svg?style=flat-square&color=2EA9DF)](https://github.com/Dashboard2/Dashboard/blob/master/LICENSE)
-[![Telegram](https://img.shields.io/badge/discuss-Telegram-2EA9DF?style=flat-square)](https://t.me/db4cmm)
+[![Telegram](https://img.shields.io/badge/discuss-Telegram-2EA9DF?style=flat-square)](https://t.me/blowH2O)
 
 
 ## Features
@@ -108,4 +108,4 @@ No License
 
 
 ## Feedback
-[Telegram group](https://t.me/db4cmm)
+[Telegram group](https://t.me/blowH2O)
